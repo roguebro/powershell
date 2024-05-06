@@ -27,6 +27,7 @@ Check your PowerShell-version:
 
 Some suggestions:
 
+    Get-Help
     Get-Command
     Get-Module
     Get-Module -ListAvailable
