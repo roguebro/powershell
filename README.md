@@ -12,8 +12,7 @@ Recent version of Windows contain Powershell 5.1+ by default. Type one of the fo
 - `powershell`
 - `terminal`
 
-It can also be installed on macOS and many Linux-distro's: https://github.com/PowerShell/PowerShell
-Once installed it can usually be started with `pwsh`.
+A different variant (Powershell **Core**) can be installed on macOS and many Linux-distro's: https://github.com/PowerShell/PowerShell. You can even install it side-by-side on Windows and arguably it provides a cleaner and nicer sandbox than default 5.1. If you're on Windows, why not try both? Once installed it can usually be started with `pwsh`.
 
 > On Windows, don't confuse a PowerShell-prompt with good old Windows-`cmd` which is an evolution of old-school DOS.
 
